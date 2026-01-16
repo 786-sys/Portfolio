@@ -2,7 +2,7 @@ import React from 'react'
 import {Header} from '../compi/Header'
 import { Intro } from '../compi/Intro';
 import { Skills } from '../compi/Skills';
-import { Footer } from '../compi/footer';
+import { Footer } from '../compi/Footer';
 import { Skillitem } from '../compi/Skillitem';
 import { Personal } from '../compi/Personal';
 const ROUTER = () => [
