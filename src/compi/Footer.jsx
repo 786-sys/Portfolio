@@ -12,9 +12,8 @@ export const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub Profile"
-          className="text-gray-800 hover:text-black transition-transform duration-300 hover:scale-110"
         >
-          <i className="fa fa-github text-2xl"></i>
+          <i className="fa fa-github text-2xl text-gray-800 hover:text-black transition-transform duration-300 hover:scale-110"></i>
         </a>
         {/* linked in */}
         <div>
@@ -23,9 +22,8 @@ export const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn Profile"
-            className="text-[#0A66C2] hover:text-blue-800 transition-transform duration-300 hover:scale-110"
           >
-            <i className="fa fa-linkedin"></i>
+            <i className="fa fa-linkedin text-2xl text-[#0A66C2] hover:text-blue-800 transition-transform duration-300 hover:scale-110"></i>{" "}
           </a>
         </div>
       </div>
