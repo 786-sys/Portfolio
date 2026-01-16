@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ROUTER from './route/ROUTER'
